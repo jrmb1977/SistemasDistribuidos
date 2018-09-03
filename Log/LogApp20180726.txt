@@ -1,0 +1,126 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[16:44:07:815]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 1 Segundo(s)
+
+[16:44:07:816]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[16:44:07:817]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[16:44:37:248]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[16:44:37:249]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[16:44:37:249]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:05:00:408]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:05:00:409]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:05:00:410]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:09:44:606]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:09:44:606]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:09:44:607]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:10:02:887]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 11 Segundo(s)
+
+[17:10:02:888]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:10:02:889]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:12:35:348]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:12:35:349]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:12:35:349]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:12:56:744]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 11 Segundo(s)
+
+[17:12:56:745]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:12:56:746]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:13:46:265]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:13:46:266]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:13:46:266]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:14:02:962]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 11 Segundo(s)
+
+[17:14:02:963]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:14:02:964]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:14:49:048]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:14:49:048]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:14:49:049]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:15:29:136]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 11 Segundo(s)
+
+[17:15:29:137]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:15:29:139]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:16:26:761]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:16:26:762]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:16:26:762]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:16:42:014]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 12 Segundo(s)
+
+[17:16:42:015]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:16:42:016]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[17:16:45:357]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:16:45:358]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[17:16:45:358]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
