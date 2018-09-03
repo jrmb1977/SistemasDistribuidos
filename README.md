@@ -7,5 +7,5 @@ El proyecto completo contiene 4 proyectos (todos desarrollados en .NET con C# co
    espol.sd.db
 3. Aplicacion Web: muestra los TOP 10 gifs mas populares
    espol.sd.app
-4. Servicio Cache: guarda en cache los TOP 10 gifs mas populares
-   espol.sd.orleans
+4. Servicio Cache: guarda en cache los TOP 10 gifs mas populares (Microsoft Orleans)
+   espol.sd.silohost
