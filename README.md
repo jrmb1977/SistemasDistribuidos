@@ -9,3 +9,4 @@ El proyecto completo contiene 4 proyectos (todos desarrollados en .NET con C# co
    espol.sd.app
 4. Servicio Cache: guarda en cache los TOP 10 gifs mas populares (Microsoft Orleans)
    espol.sd.silohost
+La carpeta Log contiene las Estadisticas en cuanto a tiempo de respuesta del servidor en traer los TOP 10 gifs mas populares
