@@ -1,0 +1,14 @@
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\espol.sd.db.dll.config
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\espol.sd.db.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\espol.sd.db.pdb
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Debug\espol.sd.db.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Debug\espol.sd.db.pdb
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\Orleans.xml
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\OrleansRuntime.xml
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\MySql.Data.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\MySql.Data.Entity.EF5.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\MySql.Data.Entity.EF6.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\MySql.Web.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\System.Collections.Immutable.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Debug\espol.sd.db.csprojResolveAssemblyReference.cache
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Debug\espol.sd.db.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\espol.sd.db.dll.config
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\espol.sd.db.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\espol.sd.db.pdb
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Release\espol.sd.db.csprojResolveAssemblyReference.cache
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Release\espol.sd.db.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\obj\Release\espol.sd.db.pdb
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\Orleans.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\OrleansHost.exe
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\OrleansRuntime.dll
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\Orleans.xml
+C:\Proyectos\espol.sd.db\espol.sd.db\bin\OrleansRuntime.xml
