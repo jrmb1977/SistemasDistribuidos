@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://localhost:1832/ServicioDB.svc?xsd=xsd1" filename="ServicioDB.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://localhost:1832/ServicioDB.svc?xsd=xsd2" filename="ServicioDB0.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://localhost:1832/ServicioDB.svc?wsdl" filename="ServicioDB.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://localhost:1832/ServicioDB.svc?xsd=xsd0" filename="ServicioDB1.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://localhost:1832/ServicioDB.svc?disco" filename="ServicioDB.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://localhost:1832/ServicioDB.svc?xsd=xsd3" filename="ServicioDB2.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>

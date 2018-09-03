@@ -1,0 +1,7 @@
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\bin\Debug\espol.sd.winserv.exe.config
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\bin\Debug\espol.sd.winserv.exe
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\bin\Debug\espol.sd.winserv.pdb
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\obj\Debug\espol.sd.winserv.csprojResolveAssemblyReference.cache
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\obj\Debug\espol.sd.winserv.exe
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\obj\Debug\espol.sd.winserv.pdb
+C:\Proyectos\espol.sd.winserv\espol.sd.winserv\obj\Debug\espol.sd.winserv.csproj.CoreCompileInputs.cache
