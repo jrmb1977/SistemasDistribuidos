@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicioDB" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:1832/ServicioDB.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:1832/ServicioDB.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:1832/ServicioDB.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://localhost:1832/ServicioDB.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/espol.sd.db" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicioDB_SaveGifs_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveGifs" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SaveGifs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveGifsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_ImportGifs_InputMessage">
+    <wsdl:part name="parameters" element="tns:ImportGifs" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_ImportGifs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ImportGifsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_ResetAccesosGifs_InputMessage">
+    <wsdl:part name="parameters" element="tns:ResetAccesosGifs" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_ResetAccesosGifs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ResetAccesosGifsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SelectTop10GifsDBId_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectTop10GifsDBId" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SelectTop10GifsDBId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectTop10GifsDBIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SelectTop10GifsDB_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectTop10GifsDB" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SelectTop10GifsDB_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectTop10GifsDBResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SelectTop10GifsCache_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectTop10GifsCache" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SelectTop10GifsCache_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectTop10GifsCacheResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SimularAccesoGifs_InputMessage">
+    <wsdl:part name="parameters" element="tns:SimularAccesoGifs" />
+  </wsdl:message>
+  <wsdl:message name="IServicioDB_SimularAccesoGifs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SimularAccesoGifsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicioDB">
+    <wsdl:operation name="SaveGifs">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/SaveGifs" message="tns:IServicioDB_SaveGifs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/SaveGifsResponse" message="tns:IServicioDB_SaveGifs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ImportGifs">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/ImportGifs" message="tns:IServicioDB_ImportGifs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/ImportGifsResponse" message="tns:IServicioDB_ImportGifs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetAccesosGifs">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/ResetAccesosGifs" message="tns:IServicioDB_ResetAccesosGifs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/ResetAccesosGifsResponse" message="tns:IServicioDB_ResetAccesosGifs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectTop10GifsDBId">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/SelectTop10GifsDBId" message="tns:IServicioDB_SelectTop10GifsDBId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/SelectTop10GifsDBIdResponse" message="tns:IServicioDB_SelectTop10GifsDBId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectTop10GifsDB">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/SelectTop10GifsDB" message="tns:IServicioDB_SelectTop10GifsDB_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/SelectTop10GifsDBResponse" message="tns:IServicioDB_SelectTop10GifsDB_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectTop10GifsCache">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/SelectTop10GifsCache" message="tns:IServicioDB_SelectTop10GifsCache_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/SelectTop10GifsCacheResponse" message="tns:IServicioDB_SelectTop10GifsCache_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SimularAccesoGifs">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicioDB/SimularAccesoGifs" message="tns:IServicioDB_SimularAccesoGifs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicioDB/SimularAccesoGifsResponse" message="tns:IServicioDB_SimularAccesoGifs_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicioDB" type="tns:IServicioDB">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SaveGifs">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/SaveGifs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ImportGifs">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/ImportGifs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetAccesosGifs">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/ResetAccesosGifs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectTop10GifsDBId">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/SelectTop10GifsDBId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectTop10GifsDB">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/SelectTop10GifsDB" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectTop10GifsCache">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/SelectTop10GifsCache" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SimularAccesoGifs">
+      <soap:operation soapAction="http://tempuri.org/IServicioDB/SimularAccesoGifs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicioDB">
+    <wsdl:port name="BasicHttpBinding_IServicioDB" binding="tns:BasicHttpBinding_IServicioDB">
+      <soap:address location="http://localhost:1832/ServicioDB.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

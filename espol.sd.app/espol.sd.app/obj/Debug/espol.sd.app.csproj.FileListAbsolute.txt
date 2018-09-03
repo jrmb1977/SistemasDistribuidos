@@ -1,0 +1,7 @@
+C:\Proyectos\espol.sd.app\espol.sd.app\bin\espol.sd.app.dll.config
+C:\Proyectos\espol.sd.app\espol.sd.app\bin\espol.sd.app.dll
+C:\Proyectos\espol.sd.app\espol.sd.app\bin\espol.sd.app.pdb
+C:\Proyectos\espol.sd.app\espol.sd.app\obj\Debug\espol.sd.app.dll
+C:\Proyectos\espol.sd.app\espol.sd.app\obj\Debug\espol.sd.app.pdb
+C:\Proyectos\espol.sd.app\espol.sd.app\obj\Debug\espol.sd.app.csproj.CoreCompileInputs.cache
+C:\Proyectos\espol.sd.app\espol.sd.app\obj\Debug\espol.sd.app.csprojResolveAssemblyReference.cache
