@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[09:04:52:466]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 5 Segundo(s)
+
+[09:04:52:466]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[09:04:52:466]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[09:13:22:672]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 1 Segundo(s)
+
+[09:13:22:672]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[09:13:22:672]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[09:24:36:877]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 1 Segundo(s)
+
+[09:24:36:877]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[09:24:36:892]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                       Estadisticas del Proceso - Seleccionar TOP 10 Gifs de la Base de Datos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[09:32:04:092]Acceso BBDD - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 1 Segundo(s)
+
+[09:32:04:092]Conversion  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
+[09:32:04:092]Carga Gifs  - Tiempo Transcurrido  : 0 Hora(s) 0 Minuto(s) 0 Segundo(s)
+
